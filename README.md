@@ -1,4 +1,4 @@
-# 65 Machine Learning Interview Questions 2026
+
 A collection of technical interview questions for machine learning and computer vision engineering positions.
 
 ### Recently added: [Natural Language Processing (NLP) Interview Questions 2026](https://github.com/andrewekhalel/MLQuestions/tree/master/NLP)
